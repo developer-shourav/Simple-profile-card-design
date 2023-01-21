@@ -1,0 +1,17 @@
+
+/* *************Imported font *************** */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+
+
+
+/* *************Common style*************** */
+
+.header-bg, .footer-bg{
+    font-family: 'Space Grotesk', sans-serif;
+    background-image:linear-gradient(to right , #5600c7, #e418ff) ;
+
+}
+
+
+
